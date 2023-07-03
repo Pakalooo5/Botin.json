@@ -1,2 +1,0 @@
-# Botin.json
-["mariocastro"]
