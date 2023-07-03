@@ -1,0 +1,2 @@
+# Botin.json
+["mariocastro"]
